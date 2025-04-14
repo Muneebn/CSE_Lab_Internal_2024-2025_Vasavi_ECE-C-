@@ -15,3 +15,6 @@ syms t
 
 e_At=expm(A.*t)
 C*e_At*[1;-1]  %  Zero Input Response 
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
