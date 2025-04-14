@@ -10,3 +10,6 @@ ka=dcgain(s*s*gs*hs)
 ess1=1/(1+kp)
 ess2=1/kv
 ess3=1/ka
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
