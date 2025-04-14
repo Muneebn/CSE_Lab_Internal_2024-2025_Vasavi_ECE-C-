@@ -14,3 +14,6 @@ margin(gs)
 % Set Calculator to Degree Mode while Calculating Phase 
 % G.M = 2dB
 % No P.M
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
