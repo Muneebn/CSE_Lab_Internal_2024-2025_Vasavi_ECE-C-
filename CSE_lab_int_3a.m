@@ -23,3 +23,8 @@ ess3=1/ka
 % t=linspace(1,15)
 % rt=1+6*t;
 % y=lsim(sys,rt,t)
+
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
+
