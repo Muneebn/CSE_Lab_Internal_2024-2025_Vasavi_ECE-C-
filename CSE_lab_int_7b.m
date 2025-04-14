@@ -12,3 +12,10 @@ D = 0            % Feedforward matrix
 tf(num, den)
 
 %[A,B,C,D]=tf2ss(num,den)
+
+
+
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
+
