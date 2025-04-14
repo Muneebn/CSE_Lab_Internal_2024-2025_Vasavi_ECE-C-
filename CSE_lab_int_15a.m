@@ -10,3 +10,6 @@ D=0
 gs=tf(num,den)
 syms t 
 e_At=expm(A*t)
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
