@@ -9,3 +9,6 @@ nyquist(cltf)
 % Magnitude at w = "18^(1/2) rad/sec" is "0.06 dB"
 
 %  Therefore , Stable system ...
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
