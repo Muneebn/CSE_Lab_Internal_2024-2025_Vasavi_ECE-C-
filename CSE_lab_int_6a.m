@@ -35,3 +35,7 @@ impulse(gh3)
 % figure
 % nyquist(gh3)
 
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
+
