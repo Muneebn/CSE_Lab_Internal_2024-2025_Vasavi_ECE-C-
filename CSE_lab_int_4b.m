@@ -8,3 +8,7 @@ cltf=feedback(gs,1)
 impulse(cltf)
 
 % Wrong Output ...
+
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
