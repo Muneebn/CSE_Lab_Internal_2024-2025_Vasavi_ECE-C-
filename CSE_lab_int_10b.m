@@ -19,3 +19,7 @@ rlocus(gh)
 % zeta = 0.44
 % sd1 = -1.32 + 2.74j
 % sd2 = -1.32 - 2.74j
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
+
