@@ -21,3 +21,6 @@ else
     disp(['Given Matrix is not Observable and Order is : ',num2str(qo)])
 
 end
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
