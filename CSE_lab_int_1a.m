@@ -1,4 +1,4 @@
--[clc;
+clc;
 clear;
 close all;
 
@@ -20,3 +20,6 @@ all_blocks=append(g1,g2,g3,g4,g5,h1,h2,h3,gi,go);
  output=10
  ts=connect(all_blocks,q,input,output)
 tf(ts)
+
+
+% Mohammed Muneeb Ahmed  
