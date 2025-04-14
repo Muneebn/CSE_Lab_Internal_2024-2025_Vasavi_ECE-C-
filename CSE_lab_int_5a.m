@@ -18,3 +18,9 @@ figure;
 rlocus(gh)
 %Dominant Pole Near to Imaginary Axis gives Slowest Response....
 %Therfore need to be placed away from Imaginary Axis....
+
+
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
+
