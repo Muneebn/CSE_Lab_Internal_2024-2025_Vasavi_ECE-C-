@@ -33,3 +33,6 @@ ka3=dcgain(s*s*gs3*hs)
 ess3a=1/(1+kp3)
 ess3b=1/(kv3)
 ess3c=1/(ka3)
+
+
+% Mohammed Muneeb Ahmed
