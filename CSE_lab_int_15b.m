@@ -7,3 +7,6 @@ d=s*1.21
 gs1=feedback(gs,d)
 gh1=feedback(gs1,1)
 
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
+
