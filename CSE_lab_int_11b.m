@@ -18,3 +18,6 @@ gs3=104/(s*s*s+4*s*s+13*s)
 cltf3=feedback(gs3,1)
 [p z]=pzmap(cltf3)
 
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
