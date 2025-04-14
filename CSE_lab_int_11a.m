@@ -17,3 +17,6 @@ input=8
 output=9
 ts=connect(all_blocks,q,input,output)
 tf(ts)
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
