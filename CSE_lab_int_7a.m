@@ -87,3 +87,9 @@ ess7a=1/(1+kp7)
 ess7b=1/(kv7)
 ess7c=1/ka7
 stepinfo(gh7)
+
+
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
+
