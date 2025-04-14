@@ -11,3 +11,6 @@ margin(gs)
 % K = 412 
 % M|(w=0.1) = 20 dB
 % wgc = 15 rad/sec
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
