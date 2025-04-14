@@ -6,3 +6,7 @@ gs=10/(s*(s+2))
 hs=1
 kv=dcgain(s*gs*hs)
 ess=1/kv
+
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
