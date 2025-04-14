@@ -7,3 +7,7 @@ bode(gs)
 margin(gs)
 cltf=feedback(gs,1)
  impulse(cltf)
+
+
+% Mohammed Muneeb Ahmed
+% mohammedmujeebahmed72@gmail.com
