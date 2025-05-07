@@ -14,7 +14,7 @@ else
 end
 ans2=obsv(A,C)
 qo=rank(ans2)
-if(det(ans2)>0)
+if(det(ans2)~=0)
     disp(['Given Matrix is Observable and Order is : ',num2str(qo)])
 else
     disp(['Given Matrix is not Observable and Order is : ',num2str(qo)])
